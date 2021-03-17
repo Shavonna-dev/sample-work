@@ -1,0 +1,55 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="file:///D|/partee_s/wireframe4/style.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+<link href="../images/style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style1 {color: #CCCCCC}
+.style4 {font-family: Georgia, "Times New Roman", Times, serif; font-size: 16px; font-weight: bold; }
+.style5 {font-family: Georgia, "Times New Roman", Times, serif}
+.style9 {font-family: Georgia, "Times New Roman", Times, serif; font-size: 16px; }
+-->
+</style>
+</head>
+
+<body>
+<table width="780" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><div align="center"><img src="../images/graphic1.gif" width="787" height="49" /></div></td>
+  </tr>
+</table>
+<table width="787" border="0">
+  <tr>
+    <td class="pinktable"><div align="center"><a href="home01.dwt">Home</a> <a href="services01.dwt">Services</a> <a href="contraindications01.dwt">Contraindications</a> <a href="lifestyle01.dwt">Lifestyle</a> <a href="contactus01.dwt">Contact Us </a></div></td>
+  </tr>
+</table>
+<!-- TemplateBeginEditable name="nowhere" -->
+<table width="787" border="0" cellpadding="0" cellspacing="10">
+  <tr>
+    <td width="400"><div align="center"><img src="../images/imageformassagesite.jpg" width="400" height="267" /></div></td>
+    <td width="386" align="left" valign="top" bgcolor="#000000"><div align="center" class="style1">
+      <div align="left"></div>
+      <span class="style4">Massage Organizations</span></div>
+      <p class="style1"><span class="style9"> American Massage Therapy Association</span><span style="font-size: 16px"><span class="style5"><a href="http://www.amtamassage.org/">www.amtamassage.org</a></span></span><a href="http://www.naturalhealers.com/search/Illinois/massage/"><span style="font-size: 16px"><br />
+        </span></a><span style="font-size: 16px; color: #CCCCCC; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">Associated</span><span class="style9"> Bodywork and Massage Professionals</span><br />
+        <a href="http://abmp.com/home/index.html" style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">www.abmp.com</a><br />
+        <span style="color: #CCCCCC; font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">More...</span> <br />
+        <a href="http://www.massageregister.com/Associations.asp" style="font-size: 15px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">http://www.massageregister.com/Associations.asp</a></p></td>
+  </tr>
+</table>
+<!-- TemplateEndEditable -->
+<table width="787" border="0" cellpadding="6" cellspacing="3">
+  <tr>
+    <td width="787" class="pinktable"><div align="center"></div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>

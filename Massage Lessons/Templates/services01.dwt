@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="file:///D|/partee_s/wireframe4/style.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+<link href="../images/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="780" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><div align="center"><img src="../images/graphic1.gif" width="787" height="49" /></div></td>
+  </tr>
+</table>
+<table width="787" border="0">
+  <tr>
+    <td class="pinktable"><div align="center"><a href="home01.dwt">Home</a> <a href="services01.dwt">Services</a> <a href="contraindications01.dwt">Contraindications</a> <a href="lifestyle01.dwt">Lifestyle</a> <a href="contactus01.dwt">Contact Us </a></div></td>
+  </tr>
+</table>
+<!-- TemplateBeginEditable name="home" -->
+<table width="787" border="0" cellpadding="0" cellspacing="10">
+  <tr>
+    <td width="400"><div align="center">
+      <p align="left" style="color: #000000; font-size: 20px; font-weight: bold">Types of Massages </p>
+      <p align="left"><span style="font-weight: bold">Swedish Massage:</span> <span style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">This style utilizes long, flowing strokes, often but not necessarily in the   direction of the heart. Swedish massage is designed to increase circulation and   blood flow. There are six basic strokes: effleurage, pettrisage, friction,   tapotement, compression and vibration. Oil, cream, or lotion is applied on the   skin to reduce friction and allow smooth strokes.<br />
+        <br />
+            <span style="font-weight: bold; font-size: 18px">Deep Massage: </span>Deep tissue techniques are generally designed for more focused massage work.   Working a specific joint, muscle or muscle group, the practitioner can access   deeper layers of the soft tissue. Each person experiences pressure differently.   Starting superficially and easing into the depth of the muscle slowly often   allows more movement.</span><br />
+            <br />
+            <span style="font-weight: bold">Sports Massage: </span><span style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">Sports massage is designed to enhance athletic performance and recovery. There   are three contexts in which sports massage can be useful to an athlete:   pre-event, post-event, and injury treatment. Pre-event massage is delivered at   the performance site, usually with the athlete fully clothed. Fast-paced and   stimulating, it helps to establish blood flow and to warm up muscles. During the   massage, the athlete generally focuses on visualizing the upcoming event.   Post-event massage is also delivered on site, through the clothes. The intent   here is to calm the nervous system and begin the process of flushing toxins and   waste products out of the body. Post-event massage can reduce recovery time,   enabling an athlete to resume training much sooner than rest alone would allow.   When an athlete sustains an injury, skillful massage therapy can often speed and   improve the quality of healing.</span><br />
+            <br />
+        <span style="font-weight: bold">Pregnancy Massage: </span> <span style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">Specific techniques can   reduce pregnancy discomforts and concerns and enhance the physiological and   emotional well-being of both mother and fetus. Skilled, appropriate touch   facilitates labor, shortening labor times and easing pain and anxiety. In the   postpartum period, specialized techniques rebalance structure, physiology, and   emotions of the new mother and may help her to bond with and care for her   infant. </span></p>
+    </div></td>
+    <td width="386" align="left" valign="top"><div align="center" class="style1">
+      <div align="left">
+        <p>&nbsp;</p>
+        <p><span style="font-weight: bold">Trigger Point Therapy:</span> <span style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">A trigger point is an area of a muscle that refers pain sensations to other   parts of the body. Trigger Point Therapy applies pressure to these points   leading to immediate release of tension and improved muscular functioning.<br />
+        <br />
+              <span style="font-weight: bold; font-size: 18px">Shiatsu:</span><span style="font-size: 18px"> Is a form of Japanese massage based on acupressure. </span></span><br />
+              <br />
+              <span style="font-weight: bold">Reflexology:</span><span style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif"> Based on an ancient Chinese therapy, reflexology involves manipulation of   specific reflex areas in the foot, hands, and ears that correspond to other   parts of the body. Sometimes referred to as zone therapy, this bodywork involves   application of pressure to these reflex zones to stimulate body organs and   relieve areas of congestion. Similar to acupressure principles, reflexology   works with the body&rsquo;s energy flow to stimulate self-healing and maintain balance   in physical function. This technique is used to reduce pain, increase   relaxation, and stimulate circulation of blood and lymphatic fluids.</span> <br />
+            <br />
+              <span style="font-weight: bold">Chair Massage: </span><span style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">Known as seated massage, chair massage, or on-site massage, this technique   involves the use of a specially designed massage chair in which the client sits   comfortably.Client in a variety of settings, including businesses, airports, and street   fairs. </span><br />
+            <br />
+              <span style="font-weight: bold">Aromatherapy Massage: </span><span style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">The use of essential oils (extracted from herbs, flowers, resin, woods, and   roots) in body and skin care treatments is known as aromatherapy. Used as a   healing technique for thousands of years by the Egyptians, Greeks, and Romans,   essential oils aid in relaxation, improve circulation, and help the healing of   wounds. Aromatherapy diffusers are utilized to fill the massage room with the   scent of the oils. Specific essential oils are blended by the aromatherapist and   added to a carrier oil, such as almond oil, to be used during the massage. Each   oil has its own unique characteristics and benefits.</span></p>
+      </div>
+    </div></td>
+  </tr>
+</table>
+<!-- TemplateEndEditable -->
+<table width="787" border="0" cellpadding="6" cellspacing="3">
+  <tr>
+    <td width="787" class="pinktable"><div align="center"></div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>

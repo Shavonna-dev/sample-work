@@ -1,0 +1,42 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="file:///D|/partee_s/wireframe4/style.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+<link href="../images/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="780" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><div align="center"><img src="../images/graphic1.gif" width="787" height="49" /></div></td>
+  </tr>
+</table>
+<table width="787" border="0">
+  <tr>
+    <td class="pinktable"><div align="center"><a href="home01.dwt">Home</a> <a href="services01.dwt">Services</a> <a href="contraindications01.dwt">Contraindications</a> <a href="lifestyle01.dwt">Lifestyle</a> <a href="contactus01.dwt">Contact Us </a></div></td>
+  </tr>
+</table>
+<!-- TemplateBeginEditable name="nowhere" -->
+<table width="787" border="0" cellpadding="0" cellspacing="10">
+  <tr>
+    <td width="400"><div align="center"><img src="../images/imageformassagesite.jpg" width="400" height="267" /></div></td>
+    <td width="386" align="left" valign="top"><div align="center" class="style1">
+      <div align="left">Massage is the practice of applying structured or unstructured pressure, tention, motion, and/or vibration manually or tools to the soft tissues of the body. This is applied to muscles, tendons, joints, ligaments, lymphatics and connective tissue. Other health care providers such as Chiropractics, Physical therapist and Occupational therapist can perform these services as well as a Massage therapist.</div>
+    </div></td>
+  </tr>
+</table>
+<!-- TemplateEndEditable -->
+<table width="787" border="0" cellpadding="6" cellspacing="3">
+  <tr>
+    <td width="787" class="pinktable"><div align="center"></div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>

@@ -1,0 +1,63 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="file:///D|/partee_s/wireframe4/style.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+<link href="../images/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="780" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><div align="center"><img src="../images/graphic1.gif" width="787" height="49" /></div></td>
+  </tr>
+</table>
+<table width="787" border="0">
+  <tr>
+    <td class="pinktable"><div align="center"><a href="home01.dwt">Home</a> <a href="services01.dwt">Services</a> <a href="contraindications01.dwt">Contraindications</a> <a href="lifestyle01.dwt">Lifestyle</a> <a href="contactus01.dwt">Contact Us </a></div></td>
+  </tr>
+</table>
+<!-- TemplateBeginEditable name="home" -->
+<table width="787" border="0" cellpadding="0" cellspacing="10">
+  <tr>
+    <td width="400"><div align="center">
+      <p align="left" style="font-weight: bold; font-size: 20px">Lifestyle:</p>
+      <p align="left" style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">Excercise and fitness: Swimming, cycling, jogging, skiing, dancing, walking and dozens of other   activities can help your heart.Exercise improves heart function, lowers blood pressure and blood cholesterol,   helps manage diabetes, and helps control weight. 30 minutes 3 times a week.<br />
+        Eat a healthy diet:
+        Nutritious and well-balanced ,low in saturated fat, <em>trans</em> fat, cholesterol, and   salt, high in fruits, vegetables, and whole grains.<br />
+        Maintain a healthy weight: Excess body fat leads to health problems such as type 2 diabetes, high blood   pressure, and high cholesterol. </p>
+      <p align="left" style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">Having excess abdominal body fat is also a health risk. Men with a waist of   more than 40 inches around and women with a waist of 35 inches or more are at   risk for health problems. </p>
+      <p align="left" style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">To lose weight, you must eat less and move more. Your body needs to burn more   calories than you take in. <br />
+        Drink 8 to 10 glasses of water a day. </p>
+    </div></td>
+    <td width="386" align="left" valign="top"><div align="center" class="style1">
+      <div align="left"></div>
+    </div>
+      <p style="font-size: 16px">&nbsp;</p>
+      <p style="font-size: 16px"><span style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif"><br />
+      Don't smoke or quit smoking: Cigarettes a</span></p>
+      <p style="font-size: 16px"><span style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">nd smokeless tobacco kill hundreds of thousands of Americans every   year. 1,200 people die each day from smoking.<br />
+        Avoid excessive alcohol: which can do a number on your liver.<br />
+        Follow the food pyramid:<br />
+        3-5 servings of vegetables a day.<br />
+        2-4 servings of fruits a day.<br />
+        2-3 servings of meat, fish, eggs, nuts, beans or legumes a day.<br />
+        2-3 servings of dairy products a day.<br />
+        6-11 servings of grains a day such as rice, bread, cereals, and pasta.<br />
+    Occational use of fats, oils, and sweets. </span></p></td>
+  </tr>
+</table>
+<!-- TemplateEndEditable -->
+<table width="787" border="0" cellpadding="6" cellspacing="3">
+  <tr>
+    <td width="787" class="pinktable"><div align="center"></div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>

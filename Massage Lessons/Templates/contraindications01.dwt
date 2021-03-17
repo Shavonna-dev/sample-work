@@ -1,0 +1,89 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<link href="file:///D|/partee_s/wireframe4/style.css" rel="stylesheet" type="text/css" />
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+<link href="../images/style.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+<!--
+.style1 {font-weight: bold}
+-->
+</style>
+</head>
+
+<body>
+<table width="780" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><div align="center"><img src="../images/graphic1.gif" width="787" height="49" /></div></td>
+  </tr>
+</table>
+<table width="787" border="0">
+  <tr>
+    <td class="pinktable"><div align="center"><a href="home01.dwt">Home</a> <a href="services01.dwt">Services</a> <a href="contraindications01.dwt">Contraindications</a> <a href="lifestyle01.dwt">Lifestyle</a> <a href="contactus01.dwt">Contact Us </a></div></td>
+  </tr>
+</table>
+<!-- TemplateBeginEditable name="home" -->
+<table width="787" border="0" cellpadding="0" cellspacing="10">
+  <tr>
+    <td width="400"><div align="center">
+      <p align="center" style="font-weight: bold">Contraindications:</p>
+      <ul>
+        <li style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">
+          <div align="left">Inflammation of tissues or organs.</div>
+        </li>
+        <li style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">
+          <div align="left">Infectious diseases. Skin rashes, viral/bacterial infections, etc.</div>
+        </li>
+        <li style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">
+          <div align="left">Tumors or abnormal growths.</div>
+        </li>
+        <li style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">
+          <div align="left">Suspected blood clots and varicose veins.</div>
+        </li>
+        <li style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">
+          <div align="left">Unstable heart conditions.</div>
+        </li>
+        <li style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">
+          <div align="left">Fresh burns, open cuts/abrasions.</div>
+        </li>
+        <li style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">
+          <div align="left">Fever or elevated body temperature.</div>
+        </li>
+        <li>
+          <div align="left"><span style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">Any condition prone to hemorrhage.<br style="font-weight: bold" />
+            </span><br />
+            </div>
+        </li>
+      </ul>
+      <p align="left" style="font-weight: bold"><a href="massagefaq01.dwt">Massage Therapy FAQ</a></p>
+    </div></td>
+    <td width="386"><div align="center" class="style1">
+      <div align="left"></div>
+      <strong><br />
+      <br />
+      Indications:</strong></div>
+      <ul>
+        <li style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">Improves circulation of blood and lymph throughout the body.</li>
+        <li style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">Relaxes muscles and relieves tension.</li>
+        <li style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">Improves general circulation, which increases nutrition to tissues, and enhances metabolism.</li>
+        <li style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">Stretches connective tissue and breaks down adhesions (scar tissue) which prevents fibrosis.</li>
+        <li style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">Helps to reduce edema of the extremities.</li>
+        <li style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">Decreases local pain as well as deep referred pain.</li>
+        <li style="font-size: 16px; font-family: Georgia, &quot;Times New Roman&quot;, Times, serif">Aids in lengthening chronically shortened muscles and fascia. </li>
+    </ul></td>
+  </tr>
+</table>
+<!-- TemplateEndEditable -->
+<table width="787" border="0" cellpadding="6" cellspacing="3">
+  <tr>
+    <td width="787" class="pinktable"><div align="center"></div></td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>
