@@ -1,0 +1,101 @@
+/* CSS Document */
+
+body {
+	font-family: 'trebuchet ms',Helvetica, Arial, sans-serif;
+	font-size: 1em;
+	background-color: #FFFFFF;
+	color: #000000;
+	background-image: url(media/bg_grad1.png);
+}
+
+#header {
+	position: absolute;
+	left: 250px;
+	top: 0px;
+}
+
+#tocDisplay {
+	background-color: #666;
+	width: 225px;
+	height: 800px;
+	overflow: auto;
+	position: absolute;
+	top: 50px;
+	left: 25px;
+	border: 2px solid #666;
+}
+
+
+#contentDisplay {
+	background-color: #66CCCC;
+	position: absolute;
+	left: 250px;
+	top: 50px;
+	border: 2px solid #666CCCC;
+}
+
+
+img.left {
+background-image: url('img05.gif');
+background-repeat: no-repeat;
+background-position:200px 300px; 
+}
+
+body {  
+background-image: 
+url('img02.gif');
+background-repeat: 
+no-repeat;
+background-position: 
+top; 
+}
+img {
+	border: 3px solid #7F7772;
+}
+
+img.left {
+	float: left;
+	margin: 6px 15px 0 0;
+}
+
+img.right {
+	float: right;
+	margin: 6px 0 0 15px;
+}
+
+.bg1 { background: url(images/img04.gif) no-repeat left bottom; }
+.bg2 { background: url(../Templates/img05.gif) no-repeat left bottom; }
+.bg3 { background: url(images/img06.gif) no-repeat left bottom; }
+.bg4 { background: url(images/img08.gif) no-repeat left bottom; }
+.bg5 { background: url(images/img09.gif) no-repeat left bottom; }
+.bg6 { background: url(../Templates/img10.gif) no-repeat right bottom; }
+.bg7 { background: url(images/img11.gif) no-repeat right bottom; }
+
+.feature {
+}
+
+.feature .image {
+	padding: 0 0 0 40px;
+}
+
+.feature .title {
+}
+
+.feature .content {
+	padding: 0 0 0 40px;
+}
+
+.box {
+	float: left;
+	width: 250px;
+}
+
+.box .title {
+	height: 40px;
+	padding: 20px 0 0 40px;
+	text-transform: lowercase;
+	font-size: 167%;
+}
+
+.box .content {
+}
