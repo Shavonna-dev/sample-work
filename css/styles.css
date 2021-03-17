@@ -1,13 +1,13 @@
   body {
-    background-color: #eeeeee;
+    background-color: #b4aee8;
   }
 
   h1 {
-    color: #222831;
+    color: #440a67;
   }
 
   h3 {
-    color: #4f8a8b;
+    color: #413c69;
   }
 
   hr {
@@ -18,6 +18,10 @@
     width: 5%;
   }
 
+  p {
+    color: #413c69;
+  }
+
   a:hover {
-  color: #4f8a8b;
+  color: #822659;
 }
