@@ -1,0 +1,111 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 {
+	font-family: Verdana, Geneva, sans-serif;
+	margin-top:0px;
+	margin-bottom:0px;
+	font-size: 25px;
+	font-style: oblique;
+	font-weight: bolder;
+	color: #00C;
+	text-align: left;
+}
+
+h2 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin-top:25px;
+	margin-bottom:2px;
+	font-size: 20px;
+	font-weight: bolder;
+	color: #FFF;
+}
+
+p {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	margin:0;
+}
+
+body {
+	margin:0;
+	background-color: #000;
+	background-image: url(images/SPA/spabackground.jpg);
+	background-position: center;
+}
+
+#container_background {
+	height: 850px;
+	width: auto;
+}
+
+#container {
+	margin:auto;
+	height: 800px;
+	width: 960px;
+	background-color: #CCC;
+	padding:15px;
+	background-image: url(images/ContainerBack.jpg);
+}
+
+#header {
+	position: absolute;	
+	background-color: #FFF;
+	height:152px;
+	wisdth:960px;
+}
+
+#logo {
+	position: absolute;
+	padding-top: 5px;
+	padding-left: 10px;
+}
+
+#mall_logo {
+	position: absolute;
+	padding-right: 5px;
+	padding-left: 740px;
+}
+
+
+
+#navmenubar ul{
+	display:block;
+	position:absolute;
+	margin-top:152px;
+	padding-left:0;
+	border:none;
+}
+
+#navmenubar ul li {
+	display:inline;
+	margin:0px;
+	border:none;
+	float:left;
+	width:137px;
+}
+
+
+
+#content {
+	margin-top:177px;
+	height:623px;
+	background-color: #FFC;
+}
+
+#body_right {
+	float:right;
+	height:592px;
+	padding-top:25px;
+	padding-left:10px;
+	padding-right:10px;
+	background-color: #39F;
+	color: #009;
+	border: medium double #F9C;
+}
+
+#footer {
+	margin:auto;
+	margin-top:0px;
+	width: 960px;
+}

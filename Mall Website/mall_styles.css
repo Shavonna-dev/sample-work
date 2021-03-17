@@ -1,0 +1,144 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 {
+	font-family:Tahoma, Geneva, sans-serif;
+	margin-top:0px;
+	margin-bottom:0px;
+	font-size: 25px;
+	font-weight: bolder;
+	color: #369;
+}
+
+h2 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin-top:20px;
+	margin-bottom:2px;
+	font-size: 20px;
+	font-weight: bolder;
+	color: #FFF;
+}
+
+p {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	margin:0;
+}
+
+
+
+body {
+	margin:0;
+	background-color: #369;
+}
+
+
+#container_background {
+	height: 850px;
+	width: auto;
+	background-image: url(images/XMAS_BackFlakes.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.img_top {
+	position:absolute;
+	top:0px;
+	margin-left:-25px;
+	width:auto;
+}
+
+.img_right {
+	position:absolute;
+	top:10px;
+	margin-left:945px;
+}
+
+.img_bottom {
+	position:absolute;
+	top:790px;
+	margin-left:-25px;
+}
+
+.img_left {
+	position:absolute;
+	top:10px;
+	margin-left:-35px;
+}
+
+#container {
+	margin:auto;
+	height: 800px;
+	width: 960px;
+	padding:15px;
+	background-image: url(images/ContainerBack.jpg);
+}
+
+
+
+#header {
+	position: absolute;
+	background-color: #9CF;
+	background-image: url(images/mallbanner.jpg);
+	height:152px;
+	width:960px;
+}
+
+#mall_logo {
+	position: absolute;
+	padding-right: 5px;
+	padding-left: 740px;
+}
+
+
+
+#navmenubar ul{
+	display:block;
+	position:absolute;
+	margin-top:152px;
+	padding-left:0;
+	border:none;
+}
+
+#navmenubar ul li {
+	display:inline;
+	margin:0px;
+	border:none;
+	float:left;
+	width:137px;
+}
+
+
+
+#content {
+	margin-top:177px;
+	height:625px;
+}
+
+#body_right {
+	float:right;
+	height:617px;
+	width:187px;
+	padding-top:0px;
+	padding-left:10px;
+	padding-right:10px;
+	background-color: #39F;
+	color: #009;
+	border: medium double #009;
+}
+
+#footer {
+	margin:auto;
+	margin-top:0px;
+	width: 960px;
+	color: #FFF;
+}
+
+#myform {
+	width:350px;
+	padding-left:10px;
+	font-size:12px;
+	font color:#000000;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-weight:bold; 
+}

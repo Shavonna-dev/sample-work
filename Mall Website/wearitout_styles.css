@@ -1,0 +1,125 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 {
+	font-family: Tahoma, Geneva, sans-serif;
+	margin-top:0px;
+	margin-bottom:0px;
+	font-size: 25px;
+	font-style: normal;
+	font-weight: bolder;
+	color: #369;
+	text-align: center;
+}
+
+h2 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin-top:5px;
+	margin-bottom:2px;
+	font-size: 20px;
+	font-weight: bolder;
+}
+
+p {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	margin:0;
+}
+
+body {
+	margin:0;
+	background-color: #369;
+	background-image:url(images/WIO/WIO%20Background.png);
+}
+
+#container_background {
+	height: 850px;
+	width: auto;
+	background-color: #369;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-image:url(images/WIO/WIO%20Background.png)
+}
+
+#container {
+	margin:auto;
+	height: 800px;
+	width: 960px;
+	background-color: #CCC;
+	padding:15px;
+	background-image: url(images/ContainerBack.jpg);
+}
+
+#header {
+	position: absolute;
+	background-color:#FFFFFF;
+	height:152px;
+	width:960px;
+}
+
+#logo {
+	position: absolute;
+	padding-left: 10px;
+}
+
+#mall_logo {
+	position: absolute;
+	padding-right: 5px;
+	padding-left: 740px;
+}
+
+#navmenubar ul{
+	display:block;
+	position:absolute;
+	margin-top:152px;
+	padding-left:0;
+	border:none;
+}
+
+#navmenubar ul li {
+	display:inline;
+	margin:0px;
+	border:none;
+	float:left;
+	width:137px;
+}
+
+
+
+#content {
+	margin-top:177px;
+	background-color: #FFF;
+	height:623px;
+}
+
+#body_right {
+	float:right;
+	height:592px;
+	padding-top:25px;
+	padding-left:10px;
+	padding-right:10px;
+	border-left-width: thick;
+	border-left-style: double;
+	border-left-color: #06C;
+	background-color: #FFF;
+	color: # FFF;
+	border: medium double #06C;
+}
+
+#footer {
+	
+}
+
+#myform {
+width:200px;
+height:200px;
+background-color: #FFF;
+font-size:14px;
+font color:#000000;
+margin:-50px;
+font-family:Georgia, "Times New Roman", Times, serif;
+font-size: 12px;
+font-weight:bold;
+float: right;   
+padding: 15px 10px 15px 20px; 
+}
